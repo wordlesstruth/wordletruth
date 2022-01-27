@@ -1,0 +1,2 @@
+# wordletruth
+Wordle is fun
